@@ -1,0 +1,15 @@
+<svg id="Icon_Color_delivery-truck" data-name="Icon/Color/delivery-truck" xmlns="http://www.w3.org/2000/svg" width="47.329" height="50.592" viewBox="0 0 47.329 50.592">
+  <rect id="Box" width="46.533" height="50.592" transform="translate(0)" fill="none"/>
+  <g id="credit-cards" transform="translate(0.412 5.101)">
+    <path id="Path" d="M0,3.188v25.5A3.067,3.067,0,0,0,2.932,31.88H38.119a3.067,3.067,0,0,0,2.932-3.188V3.188A3.067,3.067,0,0,0,38.119,0H2.932A3.067,3.067,0,0,0,0,3.188Z" transform="translate(0 0)" fill="#868686"/>
+    <path id="Path-2" data-name="Path" d="M0,3.188v25.5H38.119V0H2.932A3.067,3.067,0,0,0,0,3.188Z" transform="translate(2.932 3.188)" fill="#676767"/>
+    <path id="Path-3" data-name="Path" d="M2.932,31.88H38.119a3.067,3.067,0,0,0,2.932-3.188V3.188A3.067,3.067,0,0,0,38.119,0H2.932A3.067,3.067,0,0,0,0,3.188v25.5A3.067,3.067,0,0,0,2.932,31.88Z" transform="translate(5.865 6.376)" fill="#ffad12"/>
+    <path id="Path-4" data-name="Path" d="M41.052,0H0V6.376H41.052Z" transform="translate(5.865 14.346)" fill="#fffefc"/>
+    <g id="Group" transform="translate(11.729 28.692)">
+      <path id="Path-5" data-name="Path" d="M4.4,0H0V3.188H4.4Z" transform="translate(24.924)" fill="#fff"/>
+      <path id="Path-6" data-name="Path" d="M5.865,0H0V3.188H5.865Z" transform="translate(16.127)" fill="#fff"/>
+      <path id="Path-7" data-name="Path" d="M5.865,0H0V3.188H5.865Z" transform="translate(7.331)" fill="#fff"/>
+      <path id="Path-8" data-name="Path" d="M4.4,0H0V3.188H4.4Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
